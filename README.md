@@ -1,1 +1,1 @@
-# PlantDiseaseDetection
+# Plant Disease Prediction
